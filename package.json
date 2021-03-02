@@ -1,5 +1,5 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.3",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -18,6 +18,11 @@
     "prepare": "tsdx build",
     "size": "size-limit",
     "analyze": "size-limit --why"
+  },
+  "keywords": ["modal", "react", "ts", "responsive"],
+  "homepage": "https://nice-react-modal.vercel.app",
+  "repository": {
+    "url": "https://github.com/wassimbj/nice-react-modal"
   },
   "peerDependencies": {
     "react": ">=16"

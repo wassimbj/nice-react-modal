@@ -11,6 +11,9 @@ function App() {
 
   return (
     <div className="App">
+      <a href="https://github.com/wassimbj/nice-react-modal" className="text-center block py-3 font-semibold text-gray-700 hover:text-black">
+        Github
+      </a>
       <div className="max-w-lg my-10 mx-auto border border-gray-300 rounded-lg p-5">
         <div className="mb-5">
           <p className="text-center font-semibold"> Modal examples </p>
