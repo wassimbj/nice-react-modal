@@ -58,7 +58,11 @@ function App() {
 }
 ```
 
+*you can find the other examples in demo, in the github repo*
+
 ## Props
   ### Modal
   - **onClose** `() => void`
   - **size**? `"md" | "lg"`
+  - **darkMode**? `boolean` default is false
+
